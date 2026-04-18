@@ -1,20 +1,12 @@
 # Mohawk Momentum
 
-A 3D endless runner game developed in Unity using C#.  
-The project focuses on responsive gameplay systems, score progression, UI flow, and animation state management.
+This is an extension of Prototype 3 in 'Create with Code' by Unity. A 3D endless runner game developed in Unity using C#. Built to explore runner mechanics such as obstacle avoidance, progressive score systems, increasing difficulty, responsive UI flow, and animation state management.
 
 ## Development Timeline
 Feb 2026 – Mar 2026
 
-## Overview
-This project is a extension of the Prototype 3 done in 'Create with Code' by Unity. It explores object avoidance, increasing difficulty and game state transitions.
-
-## Tech Stack
-- Unity Engine
-- C#
-- TextMeshPro
-- Animator Controller
-- Unity UI System
+## Play the Game
+https://engine-warden.itch.io/mohawk-momentum
 
 ## Key Scripts
 - Assets/Scripts/PlayerController.cs
